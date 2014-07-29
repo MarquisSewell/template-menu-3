@@ -25,6 +25,10 @@ background-color: Black;
 opacity:0.9;
 }
 
+.thumbnails {
+  text-align: center;
+}
+
 p {
   color:White;
   font-size: 30px;
