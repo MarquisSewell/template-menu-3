@@ -15,6 +15,14 @@ body
 background-image:url('https://cloud.githubusercontent.com/assets/5033773/3740108/d1d5cfd0-1751-11e4-8e69-83d0e28ed58c.JPG');
 }
 
+html { 
+  background: url(https://cloud.githubusercontent.com/assets/5033773/3740108/d1d5cfd0-1751-11e4-8e69-83d0e28ed58c.JPG') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 Footer {
 display:block;
 position: absolute;
