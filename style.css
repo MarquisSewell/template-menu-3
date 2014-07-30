@@ -20,11 +20,11 @@ background-repeat: no-repeat;
 
 h3 {
   color: white;
+  opacity: 0.7;
 }
 
 .thumbnail {
   background: #161616;
-  opacity: 0.7;
 }
 
 
