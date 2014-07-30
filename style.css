@@ -17,6 +17,9 @@ background-size: cover;
 background-repeat: no-repeat;
 }
 
+img {
+    opacity: 0.4;
+
 h3 {
   color: white;
 }
