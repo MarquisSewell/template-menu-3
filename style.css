@@ -17,8 +17,6 @@ background-size: cover;
 background-repeat: no-repeat;
 }
 
-img {
-    opacity: 0.4;
 
 h3 {
   color: white;
@@ -26,7 +24,10 @@ h3 {
 
 .thumbnail {
   background: #161616;
+  opacity: 0.4;
+  
 }
+
 
 Footer {
 display:block;
