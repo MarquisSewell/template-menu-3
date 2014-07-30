@@ -17,6 +17,9 @@ background-size: cover;
 background-repeat: no-repeat;
 }
 
+.thumbnail {
+  background: opaque;
+}
 
 Footer {
 display:block;
