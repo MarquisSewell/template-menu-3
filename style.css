@@ -25,6 +25,16 @@ h3 {
   color: white;
 }
 
+.thumb img { 
+  opacity:0.6;
+  filter:alpha(opacity:60); 
+}
+
+.thumb-on img { 
+  opacity:1;
+  filter:alpha(opacity:100);
+}
+
 h1 {
   color: white;
 }
