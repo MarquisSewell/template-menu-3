@@ -31,11 +31,11 @@ background-repeat: no-repeat;
         height: 30px;
         position: absolute;
         bottom: 4px;
-        color:#111111 ;
+        color:transparent ;
     }
 
 h3 {
-  color: white;
+  color: gray;
 }
 
 h1 {
