@@ -25,11 +25,6 @@ background-repeat: no-repeat;
   margin-top: 100px;
 }
 
-.caption {
-  background-color: black;
-  opacity: 0.8;
-    }
-
 h3 {
   color: #545454;
 }
@@ -39,10 +34,6 @@ h1 {
   margin: 20px;
 }
 
-.thumbnail {
-  background: transparent;
-  margin-top: 25px;
-}
 
 h4 {
   color: white;
