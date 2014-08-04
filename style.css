@@ -25,13 +25,10 @@ background-repeat: no-repeat;
   margin-top: 100px;
 }
 
-.thumbnail {
-  background: black;
-  margin-top: 25px;
-}
+
 
 h3 {
-  color: #545454;
+  color: white;
 }
 
 h1 {
@@ -39,6 +36,10 @@ h1 {
   margin: 20px;
 }
 
+.thumbnail {
+  background: transparent;
+  margin-top: 25px;
+}
 
 h4 {
   color: white;
@@ -66,4 +67,9 @@ li {
 
 .well {
   padding: 10px;
+}
+
+.caption {
+    background-color: black;
+    opacity:0.8;
 }
