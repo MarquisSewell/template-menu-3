@@ -39,7 +39,6 @@ h1 {
 .thumbnail {
   background: transparent;
   margin-top: 15px;
-  height: 20px;
 }
 
 h4 {
@@ -73,4 +72,5 @@ li {
 .caption {
     background-color: black;
     opacity: 0.7;
+    height: 50px;
 }
