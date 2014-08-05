@@ -39,6 +39,7 @@ h1 {
 .thumbnail {
   background: transparent;
   margin-top: 15px;
+  height: 50px;
 }
 
 h4 {
