@@ -25,6 +25,10 @@ background-repeat: no-repeat;
   margin-top: 100px;
 }
 
+img {
+  opacity: 0.1;
+}
+
 span {
   color: black;
 }
