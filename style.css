@@ -29,6 +29,10 @@ span {
   color: black;
 }
 
+.whatever {
+  opacity: 0.1;
+}
+
 h3 {
   color: white;
 }
