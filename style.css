@@ -25,10 +25,6 @@ background-repeat: no-repeat;
   margin-top: 100px;
 }
 
-img {
-  opacity: 1;
-}
-
 span {
   color: black;
 }
@@ -80,4 +76,8 @@ li {
 .caption {
     background-color: black;
     opacity: 0.7;
+}
+
+img {
+  opacity: 1;
 }
