@@ -10,13 +10,6 @@ nav{
   opacity:0.6;
 }
 
-body
-{
-background-image:url('https://cloud.githubusercontent.com/assets/5033773/3830321/048f2be6-1d89-11e4-87ea-4108aadf0c1d.JPG');
-background-size: cover;
-background-repeat: no-repeat;
-}
-
 #brand {
   font-size: 60px;
 }
