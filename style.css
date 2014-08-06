@@ -60,7 +60,7 @@ li {
 }
 
 .thumbnail {
-  background-color: black;
+  background: transparent;
   margin-top: 15px;
   padding: 10%;
 }
