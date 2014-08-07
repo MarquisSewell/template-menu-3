@@ -59,11 +59,15 @@ li {
   padding: 10px;
 }
 
+img {
+  opacity: 1;
+}
+
 .thumbnail {
   background: transparent;
   margin-top: 15px;
   padding: 10%;
-  background-color: transparent;
+  background-color: black;
 }
 
 .caption {
