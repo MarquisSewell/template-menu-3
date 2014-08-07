@@ -66,7 +66,7 @@ img {
 .thumbnail {
   margin-top: 15px;
   padding: 10%;
-  background: black;
+  background: 0, 0, 0 ,0.6;
 }
 
 .caption {
