@@ -64,10 +64,10 @@ img {
 }
 
 .thumbnail {
-  background: transparent;
   margin-top: 15px;
   padding: 10%;
   background-color: black;
+  opacity: 0.4;
 }
 
 .caption {
