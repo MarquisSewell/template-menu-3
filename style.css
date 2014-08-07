@@ -70,3 +70,8 @@ li {
     background-color: black;
     opacity: 0.9;
 }
+
+.alpha60 {
+ background: rgba(0, 0, 0, 0.6);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+}
