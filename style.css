@@ -67,7 +67,8 @@ img {
   background: transparent;
   margin-top: 15px;
   padding: 10%;
-  background-color: black;
+  background-color: gray;
+  opacity: 0.5;
 }
 
 .caption {
