@@ -66,7 +66,7 @@ img {
 .thumbnail {
   margin-top: 15px;
   padding: 10%;
-  background-color: black;
+  background: black;
   opacity: 0.4;
 }
 
