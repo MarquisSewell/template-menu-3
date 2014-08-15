@@ -62,6 +62,9 @@ li {
 
 .well {
   padding: 10px;
+  margin-bottom: 100px;
+  background-color: black;
+  opacity: 0.4;
 }
 
 img {
