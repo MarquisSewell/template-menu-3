@@ -63,7 +63,7 @@ li {
 .well {
   padding: 10px;
   margin-bottom: 100px;
-   background-color: black;
+   background:background: rgba(0, 0, 0 ,0.6);;
 }
 
 img {
@@ -73,7 +73,6 @@ img {
 .thumbnail {
   margin-top: 15px;
   padding: 10%;
-  background: rgba(0, 0, 0 ,0.6);
   align: right;
 }
 
